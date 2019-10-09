@@ -78,3 +78,12 @@
 ***
 
 
+### Virginia Cruz
+- Photo: https://avatars1.githubusercontent.com/u/5655363?s=460&v=4
+- Location: Fortaleza, Ce - Brasil
+- Bio: 💻  FrontEnd Developer . 💻 Open Source Contributor .
+- Github: https://github.com/virginiarcruz
+***
+
+
+
